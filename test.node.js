@@ -7,6 +7,6 @@ function fibonacci(n) {
 
 describe('Performance Tests', function() {
   it('via javascript', function() {
-    expect(fibonacci(42)).to.equal(267914296);
+    expect(fibonacci(42)).to.equal(267914296)
   }).timeout(0)
 })
