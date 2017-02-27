@@ -1,6 +1,6 @@
 # Node performance test
 
-Calculating the fibonacci sequence with pure javascript and with C++ to compare the speed. 
+Calculating the fibonacci sequence with pure javascript and with C++ to compare the speed. Currently the C++ implementation is around 5 times faster than Javascript. 
 
 ## Running
 ```
@@ -26,3 +26,8 @@ function fibonacci(n) {
   return n < 1 ? 0 : n <= 2 ? 1 : fibonacci(n - 1) + fibonacci(n - 2)
 }
 ```
+
+##TODO
+*examples with nan
+*heapdump
+*multiple implementations with C++ and Javascript
