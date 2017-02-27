@@ -28,6 +28,6 @@ function fibonacci(n) {
 ```
 
 ##TODO
-*examples with nan
-*heapdump
-*multiple implementations with C++ and Javascript
+* examples with nan
+* heapdump
+* multiple implementations with C++ and Javascript
