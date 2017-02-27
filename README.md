@@ -1,6 +1,6 @@
 # Node addon performance comparison
 
-Calculating the fibonacci sequence with pure javascript and with C++ to compare the speed. Currently the C++ implementation is around 5 times faster than Javascript. 
+Calculating the fibonacci sequence with pure javascript and with C++ to compare the speed. Currently the C++ implementation is around 5 times faster. 
 
 ## Running
 ```
